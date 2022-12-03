@@ -1,0 +1,11 @@
+
+
+hello Ambre very good job with your Hackaton project. Very well use of a GUI in python. Only buttons wherent shure 
+of how to use it are save as and open as. Also when marking a task like done you can add the (" ✔") more than 
+one time are you are not able to set the todo like not done again. Also be aware that when erasing some of the 
+to do then there is empty spaces in where a todo was there before. Very good job doing a DRY code and adding
+comments in to your project to make it more legible.
+
+
+
+Congratulations on your project Well done
